@@ -34,11 +34,11 @@ div.line {
 	padding: 10px;
 }
 
-text-bold {
+.text-bold {
 	font-weight: bold;
 }
 
-text-italic {
+.text-italic {
 	font-style: italic;
 }
 
